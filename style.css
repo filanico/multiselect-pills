@@ -1,0 +1,21 @@
+input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.multiselect,
+.container {
+  position: relative;
+}
+
+.pill {
+  position: absolute;
+    top: 0px;
+    padding: 5px;
+    font-size: 13px;
+    font-family: Arial;
+    border: 1px solid;
+    border-radius: 14px;
+    background: aliceblue;
+}
